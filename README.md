@@ -2,7 +2,7 @@
 <h1 align="center">Hi There 👋, I'm Wellington Gabriel</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-- 🔭 I’m currently working on **Front-End**
+- 🔭 I’m currently working on **Front-End Projects**
 
 - 🌱 I’m currently learning **React and NextJs**
 
