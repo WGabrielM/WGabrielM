@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Front-End Projects**
 
-- 🌱 I’m currently learning **React and NextJs**
+- 🌱 I’m currently learning **React and Java**
 
-- 💬 Ask me about **React, NextJs and Javascript**
+- 💬 Ask me about **React, NextJs, Javascript, Java and Spring**
 
 - 📫 How to reach me **wellingtongmb@gmail.com**
 
