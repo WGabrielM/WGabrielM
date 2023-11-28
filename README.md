@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and Java**
 
-- 💬 Ask me about **React, NextJs, Javascript, Java and Spring**
+- 💬 Ask me about **React, NextJs, Javascript, Java, Spring and SpringBoot**
 
 - 📫 How to reach me **wellingtongmb@gmail.com**
 
