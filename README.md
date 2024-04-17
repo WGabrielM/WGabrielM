@@ -2,11 +2,11 @@
 <h1 align="center">Hi There 👋, I'm Wellington Gabriel</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-- 🔭 I’m currently working on **Full-Stack Projects**
+- 🔭 I’m currently working on **Front-end and Full-Stack Projects**
 
-- 🌱 I’m currently learning **React and Java**
+- 🌱 I’m currently learning **Tailwind**
 
-- 💬 Ask me about **React, NextJs, Javascript, Java, Spring and SpringBoot**
+- 💬 Ask me about **React, NextJs, Javascript, Java and SpringBoot**
 
 - 📫 How to reach me **wellingtongmb@gmail.com**
 
