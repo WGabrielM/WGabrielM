@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **React with NodeJS**
 
 - 💬 Ask me about **React, NextJs, Javascript, Java and SpringBoot**
 
