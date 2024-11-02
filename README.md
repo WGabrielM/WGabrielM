@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native with NodeJS and ExpressJS**
 
-- 💬 Ask me about **React, NextJs, Javascript, Java and SpringBoot**
+- 💬 Ask me about **React, NextJs, Typescript, NodeJS, Fastify, Java and SpringBoot**
 
 - 📫 How to reach me **wellingtongmb@gmail.com**
 
