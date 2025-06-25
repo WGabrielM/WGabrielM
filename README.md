@@ -2,9 +2,9 @@
 <h1 align="center">Hi There 👋, I'm Wellington Gabriel</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-- 🔭 I’m currently working as a **Software Engineer**
+- 🔭 I’m currently working as a **Senior Software Engineer**
 
-- 🌱 I’m currently learning **React Native with NodeJS and ExpressJS**
+- 🌱 I’m currently learning **React Native and Azure Cloud**
 
 - 💬 Ask me about **React, NextJs, Typescript, NodeJS, Fastify, Java and SpringBoot**
 
